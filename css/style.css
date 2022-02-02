@@ -1,5 +1,48 @@
+:root {
+  --white: white;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.whiteText800 {
+    color: white;
+    font-weight: 800;
+    font-size: ;
+}
+
+.redText {
+    color: red;
+    font-weight: 500;
+    font-size: ;
 }
